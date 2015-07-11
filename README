@@ -1,0 +1,5 @@
+mceliece key: generate a random public and private key. 
+
+mceliece encrypt file: encrypt the plaintext from "file". result is stored in file "cipher". The "file" should only have 38 characters.
+
+mceliece decrypt file: decrypt the ciphertext in "file" and output the result on the screen.
