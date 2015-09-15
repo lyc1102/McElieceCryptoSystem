@@ -4,4 +4,4 @@ mceliece encrypt file: encrypt the plaintext from "file". result is stored in fi
 
 mceliece decrypt file: decrypt the ciphertext in "file" and output the result on the screen.
 
-This is a course project. 
+This is a course project. This is project is built on this thesis http://www.mif.vu.lt/~skersys/vsd/crypto_on_codes/goppamceliece.pdf.
